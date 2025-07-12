@@ -1,8 +1,8 @@
 # Domestika Creative Assistant - Product Manager Assessment
 
 **Candidate**: Somya Rawat
-**Submission Date**: July 12, 2025  
 **Role**: Product Manager – AI  
+**Submission Date**: July 12, 2025  
 **Time Invested**: ~18 hours focused work
 
 ## Executive Summary
